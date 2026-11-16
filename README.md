@@ -7,7 +7,7 @@ Yaguareté é um aplicativo de gabinete que leva o processo trabalhista do PDF �
 ## Windows (10 ou 11, 64 bits)
 
 1. Abra a [última Release](https://github.com/fgbkiwi/yaguarete-releases/releases/latest) e baixe `Yaguarete_<versão>.exe`.
-2. Execute o arquivo e siga o assistente. A instalação é na pasta do seu usuário e **não pede administrador**.
+2. Execute o arquivo e siga o assistente. O assistente instala, por padrão, só para o seu usuário (se a conta for de administrador, o Windows pode pedir confirmação).
 3. Abra o **Yaguareté** pelo menu Iniciar. A janela usa o Microsoft Edge WebView2, que já vem com o Windows 11 e com as versões atuais do Windows 10.
 
 Se o Windows exibir o aviso do SmartScreen ("O Windows protegeu o computador"), clique em **Mais informações** e em **Executar assim mesmo**: o instalador ainda não é assinado digitalmente.
